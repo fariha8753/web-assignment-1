@@ -1,0 +1,19 @@
+.page
+{
+	color:blue;
+	border:10px solid gray;
+}
+.list li,a,ul
+{
+	display:inline;
+	text-decoration:none;
+	text-transform:uppercase;
+	padding-left:20px;
+	font-size:20px;
+	color:blue;
+
+}
+.list
+{
+	background:pink;
+}
